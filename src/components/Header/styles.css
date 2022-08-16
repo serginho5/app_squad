@@ -1,0 +1,50 @@
+.content {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px;
+}
+
+.contentAvatar img {
+  width: 70px;
+}
+
+.contentLogo img {
+  width: 110px;
+}
+
+.containerHeader {
+  background: #2385de;
+  align-items: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 210px;
+}
+
+.contentCard {
+  width: 1257px;
+  position: absolute;
+  bottom: -75px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardLider {
+  display: flex;
+  background: #ece8ea;
+  width: 400px;
+  height: 180px;
+  border-radius: 12px;
+  align-items: center;
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.cardImg img  {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.cardImg {
+  padding: 10px;
+}

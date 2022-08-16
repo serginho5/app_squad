@@ -1,0 +1,18 @@
+.cardLider {
+  display: flex;
+  background: #ece8ea;
+  width: 400px;
+  height: 180px;
+  border-radius: 12px;
+  align-items: center;
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.cardImg img  {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.cardImg {
+  padding: 10px;
+}

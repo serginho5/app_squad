@@ -1,0 +1,57 @@
+{
+  "data": {
+    "leader": [
+      {
+        "id": 1,
+        "name": "Flávio Lopes de Sousa",
+        "office": "Systems Engineer",
+        "contact": "flaviosousa@cvccorp.com.br",
+        "img": "file:///C:/Users/opah/Desktop/app_squad/src/components/imagens/flavio.png"
+      },
+      {
+        "id": 2,
+        "name": "Antonio Marques dos Santos Filho",
+        "office": "Engenheiro de software",
+        "contact": "antoniofilho@ext.cvccorp.com.br",
+        "img": "../components/imagens/antonio.png"
+      },
+      {
+        "id": 3,
+        "name": "Thiago Cosmai",
+        "office": "Tech Lead(Coordenador)",
+        "contact": "tiagocosmai@cvccorp.com.br",
+        "img": "../components/imagens/cosmai.png"
+      }
+    ],
+    "devs": [
+      {
+        "id": 4,
+        "name": "Alisson da Silva de Araujo",
+        "office": "Develop backend",
+        "contact": "alissonaraujo@cvc.com.br",
+        "img": "../components/imagens/alison.png"
+      },
+      {
+        "id": 5,
+        "name": "Ana Maria Kroschinski",
+        "office": "Develop backend",
+        "contact": "anamaria@ext.cvccorp.com.br",
+        "img": "../components/imagens/ana.png"
+      },
+      {
+        "id": 6,
+        "name": "Sérgio lima dos santos",
+        "office": "Desenvolvedor para a Web",
+        "contact": "sergiodossantos@ext.cvccorp.com.br",
+        "img": "../components/imagens/sergio.png"
+      },
+      {
+        "id": 7,
+        "name": "José David Julião Lopes",
+        "office": "Develop backend",
+        "contact": "joselopes@ext.cvccorp.com.br",
+        "img": "../components/imagens/sergio.png"
+      }
+    ]
+  }
+}

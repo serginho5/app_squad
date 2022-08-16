@@ -1,0 +1,6 @@
+.containerBody {
+  display: flex;
+  justify-content: space-around;
+  margin: 147px 95px;
+  height: calc(430px - 50px);
+}
